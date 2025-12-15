@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ホープランド",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2025-12-15T13:34:59.167981Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ホープランド",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_ホープランド_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ホープランド",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/02_ホープランド_米津玄師.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ホープランド",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_ホープランド_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ホープランド",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_02_ホープランド_米津玄師.txt"
+    }
+  ]
+}
